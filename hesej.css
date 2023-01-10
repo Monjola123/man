@@ -1,0 +1,110 @@
+body{
+	background-color: #b8c2c1;
+ }
+ .main{
+ 	margin: 0 auto;
+ 	max-width: 645px;
+ }
+#begining{
+	border-top: 12px solid royalblue;
+	max-width: 600px;
+	background-color: ghostwhite;
+	border-radius: 10.01px;
+	padding: 0px 19px 12px;
+	font-family: baskerville old face;
+}
+p{
+  font-size:16px ;
+}
+a{
+	color: #16047d;
+}
+
+#re{
+	color: red;
+}
+.A{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.B{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.C{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.D{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.E{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.F{
+	margin-top: 15px;
+	 width: 600px;
+    height: 70px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+
+.G{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.H{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.I{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+.J{
+	margin-top: 15px;
+    width: 600px;
+    height: 60px;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    padding: 3px 19px 12px;
+}
+button{
+	color: ghostwhite;
+	background-color: blue;
+}

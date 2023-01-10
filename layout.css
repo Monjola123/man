@@ -1,0 +1,30 @@
+h1{
+  height: 50px;
+  background-color: #1a93a1;
+}
+p{
+height: 120px;
+  background-color: #1a93a1;	
+}
+
+
+
+
+.REX div{
+         height: 300px;
+         width: 400px;
+         background-color: #1a93a1;
+         margin: 5px;
+}
+
+.REX {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	justify-content: space-between;
+}
+h2{
+	height: 70px;
+  background-color: #1a93a1;
+}
+
